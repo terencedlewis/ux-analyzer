@@ -6,9 +6,9 @@
 
 ## Demo
 
-![UX Analyzer Screenshot](./docs/screenshot.png)
+UX Analyzer Screenshot
 
-> _Add a screenshot to `docs/screenshot.png` to display it here._
+<img width="753" height="573" alt="Screenshot 2026-04-08 at 3 43 25 PM" src="https://github.com/user-attachments/assets/368fb2cd-db26-498d-aa4c-8e6c154cbaa3" />
 
 ---
 
